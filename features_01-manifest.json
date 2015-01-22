@@ -1,0 +1,8 @@
+{
+	"id": "features_01",
+	"name": "Features 01",
+	"content-template": "features_01.php",
+	"default-css": "features_01.css",
+	"custom-fields": [],
+	"dependencies": []
+}
